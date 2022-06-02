@@ -3,7 +3,7 @@ body {background-color:white}
 
 
 
-section {
+div {
 
         animation-name: slide;
         animation-duration: 10s;
