@@ -1,7 +1,7 @@
 
 body {background-color:white}
 
-header {background-color: lightblue;}
+
 
 section {
 
@@ -9,6 +9,7 @@ section {
         animation-duration: 10s;
         animation-iteration-count: infinite;
         text-align: right;
+        background-color: lightblue; 
 
 }
 
