@@ -8,8 +8,8 @@ section {
         animation-name: slide;
         animation-duration: 10s;
         animation-iteration-count: infinite;
-        text-align: right;
-        background-color: lightblue; 
+        background-color: lightblue;
+        background-repeat: no-repeat; 
 
 }
 
@@ -19,6 +19,17 @@ section {
         0% {background-image: url(raças\ de\ coelhos.png);}
         50% {background-image: url(raças\ de\ gatos.png);}
         100% {background-image: url(raças\ dos\ caes.png);}
+
+}
+
+section{
+
+        
+
+
+
+
+
 
 }
 
