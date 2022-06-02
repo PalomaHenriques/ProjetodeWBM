@@ -3,7 +3,7 @@ body {background-color:white}
 
 
 
-div {
+div style {
 
         animation-name: slide;
         animation-duration: 10s;
@@ -28,15 +28,6 @@ div {
 
 }
 
-section{
 
-        
-
-
-
-
-
-
-}
 
 
