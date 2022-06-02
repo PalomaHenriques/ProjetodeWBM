@@ -11,6 +11,11 @@ section {
         background-color: lightblue;
         background-repeat: no-repeat;
         background-position: right; 
+        padding-right: 697px;
+        padding-left: 168px;
+        background-repeat: no-repeat;
+        text-align: justify;
+        text-size-adjust: auto;
 
 }
 
