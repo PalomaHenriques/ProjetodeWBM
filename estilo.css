@@ -9,7 +9,8 @@ section {
         animation-duration: 10s;
         animation-iteration-count: infinite;
         background-color: lightblue;
-        background-repeat: no-repeat; 
+        background-repeat: no-repeat;
+        background-position: right; 
 
 }
 
