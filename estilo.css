@@ -1,22 +1,17 @@
 
 body {background-color:white}
 
-
-
-div style {
-
-        animation-name: slide;
-        animation-duration: 10s;
-        animation-iteration-count: infinite;
-        background-color: lightblue;
-        background-repeat: no-repeat;
-        background-position: right; 
-        padding-right: 697px;
-        padding-left: 168px;
-        background-repeat: no-repeat;
-        text-align: justify;
-        text-size-adjust: auto;
-
+section {
+        
+      background-color: lightblue;
+      text-align:justify
+      border-style: ridge;
+      border-top-width: 9px;
+      border-right-width: 0px;
+      border-bottom-width: 0px;
+      border-left-width: 0px;  
+       
+     
 }
 
 
