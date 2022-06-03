@@ -1,15 +1,17 @@
 
 body {background-color:white}
 
+header {
+
+      background-image: url(Logo.png); 
+
+
+}
+
 section {
         
       background-color: lightblue;
       text-align:justify
-      border-style: ridge;
-      border-top-width: 9px;
-      border-right-width: 0px;
-      border-bottom-width: 0px;
-      border-left-width: 0px;  
        
      
 }
