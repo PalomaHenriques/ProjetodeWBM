@@ -4,6 +4,8 @@ body {background-color:white}
 header {
 
       background-image: url(Logo.png); 
+      height: 550px;
+      width: 420px;
       
 
 }
