@@ -3,29 +3,21 @@ body {background-color:white}
 
 header {
 
+      background-image: url(PetPlus.png);
       background-repeat: no-repeat;
-      
+      background-position: left;
 
 
 
 }
 
-section  {
+section .  {
         
       background-color: lightblue;
       text-align:justify
        
      
 }
-
-
-
-
-
-
-
-
-
 
 
 
