@@ -86,12 +86,22 @@ h3 {
       font-family:'Times New Roman', Times, serif;
 }
 
-#informação {
+#Information {
 
       text-align: left;
       font-family: Arial, Helvetica, sans-serif;
+      margin-top: 92px;
+      margin-bottom: 92px;
 
 }
+
+p {
+
+      padding-top: 28px;
+      padding-bottom: 28px;
+
+}
+
 
 
 
