@@ -65,17 +65,18 @@ main {
             width: 30%; 
             box-sizing: border-box; 
             text-align: justify;
-            margin-top: 67px;
             font-size: x-large;
             background-color: lightpink;
-            padding-top: 34px;
             font-family: 'Times New Roman', Times, serif;
-            text-align: left center;
             padding-left: 40px;
             padding-right: 40px;
-            padding-top: 214px;
-
+            margin-top: 66px;
+            padding-top: 14px;
+            margin-bottom: 6px;
+              
 }
+
+
   
   img { max-width: 100%;}
 
