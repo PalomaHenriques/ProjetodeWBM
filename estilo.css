@@ -58,7 +58,19 @@ main {
               padding: 20px;
           }
   
-  aside { width: 30%; box-sizing: border-box; padding: 20px;}  
+  aside { 
+        
+            width: 30%; 
+            box-sizing: border-box; 
+            text-align: justify;
+            margin-top: 67px;
+            font-size: x-large;
+            background-color: lightpink;
+            padding-top: 34px;
+            font-family: 'Times New Roman', Times, serif;
+            text-align: left center;
+
+}
   
   img { max-width: 100%;}
 
