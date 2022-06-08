@@ -81,11 +81,11 @@ main {
 
 h3 {
 
-      color: white;
+    color: lightpink;
     text-align: center;
     font-size: xxx-large;
     font-family: 'Times New Roman', Times, serif;
-    background-color: lightblue;
+    
 }
 
 
@@ -95,6 +95,7 @@ h3 {
       font-family: Arial, Helvetica, sans-serif;
       margin-top: 92px;
       margin-bottom: 92px;
+      background-color: white;
 
 }
 
@@ -120,6 +121,13 @@ button {
       padding-left: 8px;
       margin-left: 376px;
       margin-right: 376px;
+
+}
+
+#butões {
+
+      background-image: url("imagem\ de\ fundo\ botoes.jpg");
+      background-repeat: no-repeat;
 
 }
 
