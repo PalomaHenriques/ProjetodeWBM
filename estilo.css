@@ -3,14 +3,17 @@ body {background-color:white}
 
 header {
 
-      background-image: url("PetPlus.png");
+      background-image: url(PetPlus.png);
       background-repeat: no-repeat;
-      background-position: left center;
+      background-position: center;
       background-color: white;
       padding-left: 80px;
-      padding-top:10px;
-      padding-bottom: 10px;
-}
+      padding-top: 10px;
+      padding-bottom: 260px;
+      border-bottom: lightpink;
+      border-radius: unset;
+      border-bottom-style: solid;
+  }
 
 div {
  
