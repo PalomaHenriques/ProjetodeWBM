@@ -125,10 +125,11 @@ button {
 
 }
 
-#butões {
+div {
 
       background-image: url("imagem\ de\ fundo\ botoes.jpg");
       background-repeat: no-repeat;
+      background-position: right;
 
 }
 
