@@ -80,11 +80,14 @@ main {
 
 
 h3 {
-      color: pink;
-      text-align: center;
-      font-size: large;
-      font-family:'Times New Roman', Times, serif;
+
+      color: white;
+    text-align: center;
+    font-size: xxx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
 }
+
 
 #Information {
 
@@ -99,6 +102,24 @@ p {
 
       padding-top: 28px;
       padding-bottom: 28px;
+
+}
+
+button {
+
+      color: black;
+      font-size: 16px;
+      text-align: left;
+      border-style: double;
+      border-radius: 0px;
+      border-color: #1c0f07;
+      background-color: lightblue;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-right: 8px;
+      padding-left: 8px;
+      margin-left: 376px;
+      margin-right: 376px;
 
 }
 
