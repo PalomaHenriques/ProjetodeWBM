@@ -146,14 +146,22 @@ button {
 
 }
 
-div {
 
-      background-image: url("imagem\ de\ fundo\ botoes.jpg");
+#butões {
+
+      background-image: url(imagem\ de\ fundo\ botoes.jpg);
       background-repeat: no-repeat;
-      background-position: right;
 
 }
 
+footer {
+
+      
+
+
+
+
+}
 
 
 
