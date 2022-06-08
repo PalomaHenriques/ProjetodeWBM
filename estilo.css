@@ -6,11 +6,36 @@ header {
       background-image: url("PetPlus.png");
       background-repeat: no-repeat;
       background-position: left center;
-      background-color: lightblue;
+      background-color: white;
       padding-left: 80px;
       padding-top:10px;
       padding-bottom: 10px;
 }
 
+div {
+ 
+      width: 550px;
+      height: 456px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 120px;
 
+      background-image: url('cão-e-gato-juntos.jpg');
+      background-position: right center;
+      background-repeat: no-repeat;
+
+      padding-right: 301px;
+      border-style: solid;
+      border-color:#1c0f07;
+
+      background-color: lightblue ;
+
+
+
+
+
+
+
+
+}
 
