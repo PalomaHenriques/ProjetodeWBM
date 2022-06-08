@@ -10,10 +10,27 @@ header {
       padding-left: 80px;
       padding-top: 10px;
       padding-bottom: 260px;
-      border-bottom: lightpink;
+      border-bottom: black;
       border-radius: unset;
       border-bottom-style: solid;
   }
+
+
+nav {
+
+      border-radius: inherit;
+      border-color: black;
+      border-style: dotted;
+      background-color: lightpink;
+      font-size: x-large;
+
+
+
+
+
+
+
+}
 
 div {
  
