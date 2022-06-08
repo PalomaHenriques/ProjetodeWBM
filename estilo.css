@@ -23,10 +23,35 @@ nav {
       border-style: dotted;
       background-color: lightpink;
       font-size: x-large;
-      font-family: cursive
+      font-family:'Times New Roman', Times, serif;
+      text-align: center;
        
+}
+
+a {
+       
+      padding-right: 50px;
 
 }
+
+h1 {
+
+      color: deeppink;
+      font-size: xxx-large;
+      font-family: Arial Black;
+      font-stretch: extra-condensed;
+      text-align: center;
+
+
+}
+
+
+
+
+
+
+
+
 
 div {
  
