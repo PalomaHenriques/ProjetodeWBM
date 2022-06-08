@@ -148,11 +148,11 @@ button {
 }
 
 
-#Butões {
+#Button {
 
       background-image: url(imagem\ de\ fundo\ botoes.jpg);
       background-repeat: no-repeat;
-      
+
 
 }
 
@@ -166,11 +166,8 @@ footer {
 
       background-color: lightpink;
 
-
-
-
-
 }
 
+img { margin-left: 800px; }
 
 
