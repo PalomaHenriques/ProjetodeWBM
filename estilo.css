@@ -59,10 +59,14 @@ main {
               box-sizing: border-box;
               padding: 20px;
           }
+
+ section#Sobre {
+                width: 35%;
+            }
   
   aside { 
         
-            width: 30%; 
+            width: 40%; 
             box-sizing: border-box; 
             text-align: justify;
             font-size: x-large;
