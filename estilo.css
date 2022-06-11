@@ -27,8 +27,8 @@ header {
 nav {
 
       border-radius: inherit;
-      border-color: black;
-      border-style: dotted;
+      border-color: lightblue;
+      border-style: solid;
       background-color: lightpink;
       font-size: x-large;
       font-family:'Times New Roman', Times, serif;
