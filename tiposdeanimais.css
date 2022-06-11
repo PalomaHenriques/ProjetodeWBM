@@ -47,6 +47,21 @@ h1 {
 
 }
 
+h3 {
+    margin-left: 22px;
+    color: lightcoral;
+    font-weight: bold;
+    text-align: center;
+    font-size:xx-large;
+    font-family: monospace;
+
+}
+
+li {
+  font-size: x-large;
+  padding-bottom: 18px;
+  margin-left: 28px;}
+
 main { 
   display: flex;
   justify-content: space-around;
@@ -62,14 +77,14 @@ main {
 
         }
 
-section#Canino {
-          width: 35%;
+        section#Canino {
+          width: 65%;
       }
 
 
-aside { 
+aside #Canino { 
         
-  width: 40%; 
+  width: 70%; 
   box-sizing: border-box; 
   text-align: justify;
   font-size: x-large;
@@ -89,6 +104,26 @@ section#Felino {
   
             width: 35%;
             margin-top: 66px; }
+
+
+aside #Felino { 
+        
+  width: 70%; 
+  box-sizing: border-box; 
+  text-align: justify;
+  font-size: x-large;
+  background-color: lightpink;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-top: 66px;
+  padding-top: 14px;
+  margin-bottom: 6px;
+    
+}
+
+
+
 
 
 
