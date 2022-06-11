@@ -47,20 +47,6 @@ h1 {
 
 }
 
-h3 {
-    margin-left: 22px;
-    color: lightcoral;
-    font-weight: bold;
-    text-align: center;
-    font-size:xx-large;
-    font-family: monospace;
-
-}
-
-li {
-  font-size: x-large;
-  padding-bottom: 18px;
-  margin-left: 28px;}
 
 main { 
   display: flex;
@@ -81,6 +67,18 @@ main {
           width: 65%;
       }
 
+      section#Felino {
+  
+        width: 35%;
+        margin-top: 66px; }
+        
+        
+        #felino { 
+          width: 60%;
+          box-sizing: border-box;
+          padding: 20px;}
+
+
 
 aside { 
         
@@ -100,15 +98,21 @@ aside {
 
 img { max-width: 100%;}
 
-section#Felino {
-  
-            width: 35%;
-            margin-top: 66px; }
+h3 {
+  margin-left: 22px;
+  color: lightcoral;
+  font-weight: bold;
+  text-align: center;
+  font-size:xx-large;
+  font-family: monospace;
 
-            #felino { 
-              width: 60%;
-              box-sizing: border-box;
-              padding: 20px;}
+}
+
+li {
+font-size: x-large;
+padding-bottom: 18px;
+margin-left: 28px;}
+
 
 
 
