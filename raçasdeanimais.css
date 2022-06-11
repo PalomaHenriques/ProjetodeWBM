@@ -21,3 +21,17 @@ header {
     color:#1c0f07
     
 }
+
+nav {
+
+    border-radius: inherit;
+    border-color: black;
+    border-style: dotted;
+    background-color: lightpink;
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+     
+}
