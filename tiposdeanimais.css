@@ -47,7 +47,7 @@ h1 {
 
 }
 
-main #canino { 
+main { 
   display: flex;
   justify-content: space-around;
 
@@ -57,14 +57,18 @@ main #canino {
           width: 60%;
           box-sizing: border-box;
           padding: 20px;
-          text-align: right;
+    
 
         }
+
+section#Canino {
+          width: 65%;
+      }
 
 
 aside { 
         
-  width: 40%; 
+  width: 70%; 
   box-sizing: border-box; 
   text-align: justify;
   font-size: x-large;
