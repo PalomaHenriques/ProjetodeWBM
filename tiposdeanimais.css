@@ -1,31 +1,24 @@
-body {background-color:white}
+body {margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px; 
+  background-color: white ; 
+
+}
 
 header {
 
-      background-image: url(PetPlus.png);
-      background-repeat: no-repeat;
-      background-position: center;
-      background-color: white;
-      padding-left: 80px;
-      padding-top: 10px;
-      padding-bottom: 260px;
-      border-bottom: black;
-      border-radius: unset;
-      border-bottom-style: solid;
-      color:#1c0f07
-      
-  }
-
-  nav {
-
-    border-radius: inherit;
-    border-color: black;
-    border-style: dotted;
-    background-color: lightpink;
-    font-size: x-large;
-    font-family:'Times New Roman', Times, serif;
-    text-align: center;
-    padding-top: 12px;
-    padding-bottom: 12px;
-     
+  background-image: url(PetPlus.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: white;
+  padding-left: 80px;
+  padding-top: 10px;
+  padding-bottom: 260px;
+  border-bottom: black;
+  border-radius: unset;
+  border-bottom-style: solid;
+  color:#1c0f07
+  
 }
+
