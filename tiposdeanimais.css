@@ -48,10 +48,11 @@ h1 {
 }
 
 
-main { 
+main #felino { 
   display: flex;
   justify-content: space-around;
   margin-bottom: 84px;
+  flex-direction: row-reverse;
 
 }
 
@@ -63,8 +64,9 @@ main {
 
         }
 
-        section#Canino {
+      section#Canino {
           width: 65%;
+          
       }
 
       section#Felino {
