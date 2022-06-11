@@ -105,6 +105,11 @@ section#Felino {
             width: 35%;
             margin-top: 66px; }
 
+            #felino { 
+              width: 60%;
+              box-sizing: border-box;
+              padding: 20px;}
+
 
 
 
