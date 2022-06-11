@@ -47,6 +47,20 @@ h1 {
 
 }
 
+main #canino { 
+  display: flex;
+  justify-content: space-around;
+}
+
+#canino { 
+          width: 60%;
+          box-sizing: border-box;
+          padding: 20px;
+          text-align: right;
+
+        }
+
+
 aside #canino { 
         
   width: 40%; 
