@@ -50,6 +50,7 @@ h1 {
 main { 
   display: flex;
   justify-content: space-around;
+  margin-bottom: 84px;
 
 }
 
@@ -62,13 +63,13 @@ main {
         }
 
 section#Canino {
-          width: 65%;
+          width: 35%;
       }
 
 
 aside { 
         
-  width: 70%; 
+  width: 40%; 
   box-sizing: border-box; 
   text-align: justify;
   font-size: x-large;
@@ -83,5 +84,12 @@ aside {
 }
 
 img { max-width: 100%;}
+
+section#Felino {
+  
+            width: 35%;
+            margin-top: 66px; }
+
+
 
 
