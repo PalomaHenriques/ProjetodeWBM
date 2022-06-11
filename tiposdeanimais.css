@@ -50,6 +50,7 @@ h1 {
 main #canino { 
   display: flex;
   justify-content: space-around;
+
 }
 
 #canino { 
@@ -61,7 +62,7 @@ main #canino {
         }
 
 
-aside #canino { 
+aside { 
         
   width: 40%; 
   box-sizing: border-box; 
@@ -77,6 +78,6 @@ aside #canino {
     
 }
 
-img #canino { max-width: 100%;}
+img { max-width: 100%;}
 
 
