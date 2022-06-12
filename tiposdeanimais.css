@@ -75,18 +75,33 @@ main  {
         margin-top: 66px; }
         
         
-      #felino { 
+        #felino { 
           width: 60%;
           box-sizing: border-box;
           padding: 20px;}
 
-  aside#reptiel {
+          section#Reptiel {
+  
+            width: 35%;
+            margin-top: 66px; }
+            
+            
+            #Reptiel { 
+              width: 60%;
+              box-sizing: border-box;
+              padding: 20px;}
 
-          margin-top: 2px;
-          margin-left: 66px;
-}
-
-       
+              section#Ave {
+  
+                width: 35%;
+                margin-top: 66px; }
+                
+                
+                #Ave { 
+                  width: 60%;
+                  box-sizing: border-box;
+                  padding: 20px;}    
+    
 
 
 aside { 
