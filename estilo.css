@@ -179,10 +179,19 @@ footer {
 }
 
 .Btn { 
-      background-image: url(imagem\ de\ fundobotoes123.jpg);
+      background-color: azure;
+      margin-bottom: 54px;
+      padding-bottom: 17px;
+      border-bottom-style: inset;
 
 }
 
+.information {
+
+      
+
+
+}
 
 
 
