@@ -182,8 +182,11 @@ footer {
       background-image: url(imagem\ de\ fundobotoes123.jpg);
       margin-bottom: 54px;
       padding-bottom: 17px;
+      padding-top: 97px;
       border-bottom-style: inset;
-
+      margin-bottom: 0px;
+      padding-bottom: 268px
+      
 }
 
 .information {
