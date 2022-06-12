@@ -36,6 +36,12 @@ nav {
    
 }
 
+a {
+       
+  padding-right: 50px;
+
+}
+
 h1 {
   
     text-align: center;
@@ -143,6 +149,13 @@ footer {
 
   background-color: lightpink;
  
+}
+
+h2 {
+
+  padding-top: 25px;
+  padding-left: 35px;
+  color:cadetblue;
 }
 
 
