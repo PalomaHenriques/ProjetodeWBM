@@ -179,24 +179,21 @@ footer {
 }
 
 .Btn { 
+
       background-image: url(imagem\ de\ fundobotoes123.jpg);
-      margin-bottom: 54px;
-      padding-bottom: 17px;
-      padding-top: 97px;
+
       background-repeat: no-repeat;
+      background-position: center;
       border-bottom-style: inset;
       margin-bottom: 0px;
-      padding-bottom: 268px
+      margin-bottom: 54px;
+      padding-bottom: 268px;
+      padding-top: 243px;
+      padding-left: 299px
       
-      
+     
 }
 
-.information {
-
-
-
-
-}
 
 
 
