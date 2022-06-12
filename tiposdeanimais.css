@@ -55,18 +55,19 @@ main  {
   
 }
 
-#canino { 
-          width: 60%;
-          box-sizing: border-box;
-          padding: 20px;
-    
-
-        }
 
       section#Canino {
-          width: 65%;
+          width: 35%;
+          margin-top: 66px; }
           
-      }
+      
+
+      #canino { 
+        width: 40%;
+        box-sizing: border-box;
+        padding: 20px;}
+
+
 
       section#Felino {
   
@@ -79,6 +80,28 @@ main  {
           box-sizing: border-box;
           padding: 20px;}
 
+          section#Réptiel {
+  
+            width: 35%;
+            margin-top: 66px; }
+            
+            
+            #Réptiel { 
+              width: 60%;
+              box-sizing: border-box;
+              padding: 20px;}
+
+              section#Ave {
+  
+                width: 35%;
+                margin-top: 66px; }
+                
+                
+                #Ave { 
+                  width: 60%;
+                  box-sizing: border-box;
+                  padding: 20px;}    
+    
 
 
 aside { 
