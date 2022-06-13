@@ -169,7 +169,7 @@ padding-bottom: 23px
 }
 
 
-
+@media(max-width: 413px) {body { width: 950px ;}}
 
 
 

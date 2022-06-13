@@ -6,7 +6,7 @@ body {margin-top: 0px;
 
 }
 
-@media(max-width: 800px) {body { width: 750px ;}}
+
 
 header {
 
@@ -69,3 +69,4 @@ footer {
   
 }
 
+@media(max-width: 413px) {body { width: 950px ;}}
