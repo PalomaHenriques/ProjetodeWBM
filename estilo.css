@@ -178,3 +178,23 @@ footer {
     
 }
 
+
+main#BTN {
+      width: 35%;
+  }
+
+aside#BTN { 
+
+  width: 40%; 
+  box-sizing: border-box; 
+  text-align: justify;
+  font-size: x-large;
+  background-color: lightpink;
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-top: 66px;
+  padding-top: 14px;
+  margin-bottom: 6px;
+    
+}
