@@ -196,19 +196,15 @@ h4 {color:cadetblue;
       
 }
 
-.acess button {font-family: 'Times New Roman', Times, serif;
+button.acess {font-family: 'Times New Roman', Times, serif;
                font-size: larger;
                background-color: beige;
                border-radius:0.5em;
-               text-align: center;      }
+               text-align: center;
+               margin-bottom: 26px;
+               margin-left: 22px;}
 
-.acess div {background-color: lightcoral;
-            border-bottom-width: 21px;
-            border-top-width: 21px
-            
-            
 
-}
 
 @media(max-width: 413px) {body { width: 950px ;}}
 
