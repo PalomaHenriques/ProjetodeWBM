@@ -206,7 +206,13 @@ h4 {color:cadetblue;
 
 
 
-@media(max-width: 413px) {body { width: 950px ;}}
+@media screen and (max-width: 780px) {
+
+      section, aside, div,header, footer {
+
+      width: 100%;}
+
+}
 
 
  
