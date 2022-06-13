@@ -60,7 +60,7 @@ h1 {
 
 }
 
-main { 
+main#sobre { 
       display: flex;
       justify-content: space-around;
   }
