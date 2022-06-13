@@ -38,6 +38,22 @@ nav {
      
 }
 
+a {
+       
+  padding-right: 50px;
+
+}
+
+h1 {padding-left: 32px;
+    color:cornflowerblue}
+
+
+p {padding-left: 32px;}
+
+main {padding-left: 32px;}
+
+
+
 footer {
 
     background-color: lightpink;
