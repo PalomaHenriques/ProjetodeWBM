@@ -58,17 +58,6 @@ h1 {
 
 }
 
-.responsive main{min-width: 320px;
-                  max-width: 800px}
-
-.Acess main {min-width: 320px;
-            max-width: 800px}
-
-.Fund main {min-width: 320px;
-            max-width: 800px}
-
-.Social main {min-width: 320px;
-            max-width: 800px}
 
 
 main { 
@@ -204,6 +193,7 @@ h4 {color:cadetblue;}
       
 }
 
+@media(max-width: 413px) {body { width: 950px ;}}
 
 
  
