@@ -111,8 +111,10 @@ h3 {
       margin-top: 92px;
       margin-bottom: 92px;
       background-color: white;
-      background-position: right;
-      background-color: lightcyan;
+     background-image: url(imagem\ de\ fundobotoes123.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-color: center center;
       border-style: solid;
       padding-bottom: 21px;
 
@@ -162,12 +164,12 @@ footer {
 h4 {color:cadetblue;}
 
 .fundo {
-      background-color: azure;
       font-size: 1.3em ;
       color: black;
       padding: 1em;
       border-radius: 0.5em;
-
+      background-color:bisque;
+      
 }
 
 .fundo button {
@@ -183,3 +185,28 @@ h4 {color:cadetblue;}
       color: white;
       text-shadow:  0 0 0px white;
 }
+
+.fundo {
+      font-size: 1.3em ;
+      color: black;
+      padding: 1em;
+      border-radius: 0.5em;
+      background-color:bisque;
+      
+}
+
+.acede button {
+      color: lightblue
+}
+
+.acede a {
+      color: #1c0f07;
+      transition: 1s;
+}
+
+.acede a:hover {
+      color: white;
+      text-shadow:  0 0 0px white;
+}
+
+
