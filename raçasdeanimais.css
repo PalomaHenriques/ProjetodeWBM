@@ -73,7 +73,7 @@ footer {
 
 @media screen and (max-width: 780px) {
 
-  section, aside, div,header, footer {
+  section, aside, div,header, footer,nav {
 
   width: 100%;}
 
