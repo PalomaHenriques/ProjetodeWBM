@@ -104,17 +104,13 @@ h3 {
 }
 
 
-.Information {
+.acede {
 
       text-align: left;
       font-family: Arial, Helvetica, sans-serif;
       margin-top: 92px;
       margin-bottom: 92px;
       background-color: white;
-     background-image: url(imagem\ de\ fundobotoes123.jpg);
-     background-size: cover;
-     background-repeat: no-repeat;
-     background-color: center center;
       border-style: solid;
       padding-bottom: 21px;
 
@@ -136,9 +132,12 @@ li {
       padding-bottom: 10px;
 }
 
-.Lis li {color: brown;}
+.Lis li {color: black}
 
-.pa p {color: brown;}
+
+.pa p {color:black;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
 
 
 
