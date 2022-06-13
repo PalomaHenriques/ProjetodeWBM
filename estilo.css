@@ -167,7 +167,9 @@ footer {
     
 }
 
-h4 {color:cadetblue;}
+h4 {color:cadetblue;
+      font-size: x-large;
+      font-family: 'Times New Roman', Times, serif;}
 
 .fundo {
       font-size: 1em ;
@@ -175,11 +177,12 @@ h4 {color:cadetblue;}
       padding: 1em;
       border-radius: 0.5em;
       background-color:bisque;
-      
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      text-align: center;
 }
 
 .fundo button {
-      background-color: lightblue
+      background-color:darksalmon
 }
 
 .fundo a {
